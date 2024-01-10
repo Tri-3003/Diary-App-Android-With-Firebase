@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569761509970",
+    "project_id": "testdoan-237da",
+    "storage_bucket": "testdoan-237da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569761509970:android:603ef275d33067cd1ba58b",
+        "android_client_info": {
+          "package_name": "com.example.doan_nhom1a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDldX_nk64l3i_oMFeg0mdykJ53M1myp6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
